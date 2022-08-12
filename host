@@ -1,8 +1,3 @@
+[Adblock Plus 2.0]
 
-#=====================================
-# Title: Hosts contributed by me
-
-# gravatar.com
-0.0.0.0 en.gravatar.com
-0.0.0.0 gravatar.com
-0.0.0.0 wwww.gravatar.com
+-adwords.$domain=~consultant-adwords.com|~consultant-adwords.fr|~expert-adwords.com|~freelance-adwords.com|~gravatar.com
